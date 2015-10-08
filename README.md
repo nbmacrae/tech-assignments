@@ -1,2 +1,2 @@
 # tech-assignments
-Respository for technical assignments. 
+Sandbox for sharing of technical assignments. 

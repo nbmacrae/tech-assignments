@@ -40,7 +40,7 @@
                 </configuration>
             </plugin>
 
-            <!-- Make this jar executable -->
+            <!-- Make this jar -->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-jar-plugin</artifactId>
